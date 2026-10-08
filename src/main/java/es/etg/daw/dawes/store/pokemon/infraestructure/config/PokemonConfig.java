@@ -1,0 +1,1 @@
+package es.etg.daw.dawes.store.pokemon.infraestructure.config;
